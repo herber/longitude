@@ -50,6 +50,10 @@ Type: `string`
 
 The IP - Address you want to check
 
+## Related
+- [longitude-client](https://github.com/tobihrbr/longitude-client) - Geoip for browsers
+- [longitude-cli](https://github.com/tobihrbr/longitude-cli) - Geoip for the commandline
+
 ## License
 
 MIT © [Tobias Herber](https://tobihrbr.com)
