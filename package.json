@@ -1,0 +1,39 @@
+{
+  "name": "longitude",
+  "version": "0.0.0",
+  "description": "Geolocation for node",
+  "license": "MIT",
+  "repository": "tobihrbr/longitude",
+  "author": {
+    "name": "tobihrbr",
+    "email": "tobihrbr@gmail.com",
+    "url": "tobihrbr.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "fyi && ava",
+    "test-watch": "fyi --watch",
+    "build": "rollup -c"
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "dist"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "fyi": "^0.1.5",
+    "node-fetch": "^1.7.1"
+  },
+  "fyi": {
+    "ignore": [
+      "dist"
+    ]
+  }
+}
