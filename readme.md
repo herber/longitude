@@ -8,7 +8,6 @@
 $ npm install --save longitude
 ```
 
-
 ## Usage
 ### With any IP
 ```js
