@@ -1,4 +1,4 @@
-# longitude
+# Longitude
 [![Supported by bytes](http://art.bytes.gq/badge.svg)](https://bytes.gq) [![Build Status](https://travis-ci.org/tobihrbr/longitude.svg?branch=master)](https://travis-ci.org/tobihrbr/longitude)
 
 > Geolocation for node
