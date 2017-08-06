@@ -28,7 +28,7 @@
   "dependencies": {},
   "devDependencies": {
     "ava": "^0.17.0",
-    "fyi": "^1.0.0",
+    "fyi": "^0.1.5",
     "node-fetch": "^1.7.1"
   },
   "fyi": {
